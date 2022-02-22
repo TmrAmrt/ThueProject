@@ -1,5 +1,5 @@
 Increment and Decrement require a binary number followed and preceded by underscores    
-For example, Increment will change _0110_ into _0111_  
+For example, Increment will change \_0110_ into \_0111_  
 You can simulate any logic gate with Thue, AND,OR,XOR,and NOT will do those operations on a bit-by-bit case from the input text  
 For example, AND will change 01101 into 0 and 111 into 1  
   
