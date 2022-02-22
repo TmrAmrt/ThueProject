@@ -1,0 +1,89 @@
+1_ ::= a_ai_
+0_ ::= a_
+_a_::=_
+
+1a ::= b_bi_a
+0a ::= b_a
+_b_::=_
+
+1b ::= c_ci_b
+0b ::= c_b
+_c_::=_
+
+1c ::= d_di_c
+0c ::= d_
+_d_::=_
+
+1d ::= e_ei_d
+0d ::= e_
+_e_::=_
+
+1e ::= f_fi_e
+0e ::= f_
+_f_::=_
+
+1f ::= g_gi_f
+0f ::= g_
+_g_::=_
+
+1g ::= h_hi_g
+0g ::= h_
+_h_::=_
+
+_hi ::= _gi_gi
+_gi ::= _fi_fi
+_fi ::= _ei_ei
+_ei ::= _di_di
+_di ::= _ci_ci
+_ci ::= _bi_bi
+_bi ::= _ai_ai
+_ai ::= _I
+
+__::=_
+IIIII::=V
+XXXXX::=L
+VV::=X
+LL::=C
+CCCCC::=D
+DD::=M
+
+IV::=VI
+IX::=XI
+IL::=LI
+IC::=CI
+ID::=DI
+IM::=MI
+VX::=XV
+VL::=LV
+VC::=VC
+VD::=DV
+VM::=MV
+XL::=LX
+XC::=CX
+XD::=DX
+XM::=MX
+LC::=CL
+LD::=DL
+LM::=ML
+CD::=DC
+CM::=MC
+DM::=MD
+
+I_I::=II
+I_V::=VI
+I_X::=XI
+I_L::=LI
+I_C::=CI
+I_D::=DI
+I_M::=MI
+
+V_I::=IV
+
+V_V::=VV
+X_X::=XX
+L_L::=LL
+C_C::=CC
+D_D::=DD
+M_M::=MM
+
+
