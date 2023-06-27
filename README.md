@@ -1,6 +1,6 @@
 # ThueProject
 
-This is a project I did for school in 2021, it is an interpreter, and a IDE for Thue language programming.  
+This is a project I did for school in 2021. It is an interpreter, and an IDE for Thue language programming.  
   
 Thue is a non-deterministic string replacement language.
 A programm in Thue is composed of a string of text and a set of rules wich will be applied to it.
